@@ -58,7 +58,7 @@ postPatterns: 'food'
 sns:
   weibo: '//weibo.com/lovecolcol'
   juejin: '//space.bilibili.com/400754990'
-  email: '//www.2496633155@qq.com'
+  zhihu: '//www.zhihu.com/people/liang-liang-96-79/activities'
   github: '//github.com/fommmax'
 
 # Tags 设置标签
