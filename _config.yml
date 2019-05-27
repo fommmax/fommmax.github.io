@@ -37,7 +37,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
@@ -57,8 +57,8 @@ postPatterns: 'food'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/lovecolcol'
-  bilibili: '//space.bilibili.com/400754990'
-  instagram: '//www.instagram.com/steveliaocn'
+  juejin: '//space.bilibili.com/400754990'
+  email: '//www.2496633155@qq.com'
   github: '//github.com/fommmax'
 
 # Tags 设置标签
