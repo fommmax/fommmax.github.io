@@ -8,24 +8,26 @@ tags: jekyll
 
 ## jekyll-theme-H2O
 
-基于Jekyll的博客主题模板，简洁轻量。
+基于Jekyll的博客主题模板，简洁轻量。选一个你最喜欢的模板吧：
+
+[更多模板](http://jekyllthemes.org/)
 
 
 ### Preview
 
 #### [在线预览 Live Demo →](http://fommmax.github.io/)
 
-![](/screenshot/jekyll-theme-h2o-realhome.jpg)
+![](screenshot/jekyll-theme-h2o-realhome.jpg)
 
-![](/screenshot/jekyll-theme-h2o-realm.png)
+![](screenshot/jekyll-theme-h2o-realm.png)
 
-如果你喜欢这个博客模板，请在右上角star一下，非常感谢～
+如果你喜欢这个教程，请在右上角star⭐️一下，非常感谢～
 
 If you like this theme or using it, please give a ⭐️ for motivation ;)
 
 如果想体验手机浏览效果，可以扫一下二维码：
 
-![](screenshot/1494404591.png)
+![](screenshot/2D.png)
 
 Using your smartphone to scan the QR Code
 
@@ -151,17 +153,8 @@ paginate_path: 'page:num'
 
 文章一般都放在`_posts`文件夹里，每篇文章的开头都需要设置一些头信息：
 
-```
----
-layout: post
-title: 'H2O theme for Jekyll'
-subtitle: '或许是最漂亮的Jekyll主题'
-date: 2017-04-18
-categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
----
-```
+
+
 
 #### 导航
 
