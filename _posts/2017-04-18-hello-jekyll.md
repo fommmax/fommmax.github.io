@@ -7,19 +7,18 @@ cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: jekyll
 ---
 
-> Transform your plain text into static websites and blogs.
+> 将纯文本转换为静态网站和博客
 
-### Welcome
+### 欢迎
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+这个博客的目的是成为一个全面的指南。我们将介绍一些主题，如启动和运行您的网站、创建和管理您的内容、自定义网站的工作方式和外观、部署到各种环境，并为您提供一些关于参与Jekyll自身未来发展的建议。
 
-### So what is Jekyll, exactly?Permalink
+### 什么是Jekyll
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+Jekyll是一个简单的、支持博客的静态网站生成器。它采用一个包含各种格式的原始文本文件的模板目录，并通过转换器运行它。  (像[Markdown](https://daringfireball.net/projects/markdown/)) 与 [Liquid](https://github.com/Shopify/liquid/wiki) 呈现一个完整的，准备发布的静态网站适合与您最喜爱的Web服务器服务。Jekyll也恰好是Github页面背后的引擎，这意味着您可以使用Jekyll免费从Github服务器托管项目的页面、博客或网站。
+### 具体使用
 
-### Helpful HintsPermalink
-
-Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
+去官网下载你喜欢的模板，有很多开源项目，其中附带的各种说明足够你自行进行更改，从而产生你自己的网站。
 
 ### Video Test
 
