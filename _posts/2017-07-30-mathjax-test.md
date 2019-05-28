@@ -15,7 +15,7 @@ tags: jekyll
 
 #### [在线预览 Live Demo →](http://fommmax.github.io/)
 
-![](https://github.com/fommmax/fommmax.github.io/screenshot/jekyll-theme-h2o-realhome.jpg)
+![](../:screenshot/jekyll-theme-h2o-realhome.jpg)
 
 ![](screenshot/jekyll-theme-h2o-realm.png)
 
