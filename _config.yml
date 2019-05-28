@@ -85,3 +85,5 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
+
+post_asset_folder:true
