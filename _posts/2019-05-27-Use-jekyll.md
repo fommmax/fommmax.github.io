@@ -27,7 +27,7 @@ If you like this theme or using it, please give a ⭐️ for motivation ;)
 
 如果想体验手机浏览效果，可以扫一下二维码：
 
-![](https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/2D.png)
+<img src="https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/2D.png" width="20%" height="20%">
 
 Using your smartphone to scan the QR Code
 
