@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H2O theme for Jekyll'
-subtitle: 'jrkyll的主题配置'
+subtitle: 'jekyll的主题配置'
 date: 2019-05-28
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
