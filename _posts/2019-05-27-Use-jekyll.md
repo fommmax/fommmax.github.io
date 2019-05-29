@@ -178,7 +178,7 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 
 #### 侧边栏
 
-![](screenshot/jekyll-theme-h2o-sideBar.png)
+![](https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/jekyll-theme-h2o-sideBar.png)
 
 侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏。
 
@@ -250,7 +250,7 @@ Tags配置说明：
 
 #### 文章搜索
 
-![](screenshot/jekyll-theme-h2o-search.png)
+![](https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/jekyll-theme-h2o-search.png)
 
 基于Jekyll服务器生成文章索引文件 `search.json` 为博客提供搜索服务。输入文章标题或与文章标签相关的关键字即可。
 
@@ -317,7 +317,7 @@ nightMode: true
 
 #### 主题皮肤
 
-![](screenshot/jekyll-theme-h2o-themecolor.jpg)
+![](https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/jekyll-theme-h2o-themecolor.jpg)
 
 支持两种主题颜色蓝色（默认）和粉色
 
@@ -346,7 +346,7 @@ header-img: assets/img/banner.jpg
 
 #### 头图底纹
 
-![](screenshot/jekyll-theme-h2o-heroPatterns.png)
+![](https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/jekyll-theme-h2o-heroPatterns.png)
 
 在没有图片的情况下单纯显示颜色会不会太无趣了点？于是想到了加入底纹元素，底纹素材是SVG格式的（保存在css样式里），加载比图片快很多。六种底纹（电路、食物、云海、钻石等等）供你选择，配置如下：
 
