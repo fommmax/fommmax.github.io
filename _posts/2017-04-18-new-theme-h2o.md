@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H2O theme for Jekyll'
-subtitle: '或许是最漂亮的Jekyll主题'
+subtitle: 'jrkyll的主题配置'
 date: 2019-05-28
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
@@ -12,11 +12,11 @@ tags: jekyll 前端开发 设计
 ## H2O
 
 文章源码，
-欢迎[Star](https://github.com/kaeyleo/jekyll-theme-H2O)
+欢迎[Star](https://github.com/fommmax/fommmax.github.io)
 
 ![](http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-realhome.jpg)
 
-新主题名叫"H2O"，基于Jekyll 3.0.x（使用```gem update jekyll```升级Jekyll），Markdown的代码高亮不再支持pygments转而使用rouge，咱已经默认配置了 ```highlighter: rouge``` 。用到的技术栈也很简单：引入jQuery类库，使用Sass编写样式，使用Gulp来编译Sass、合并压缩css、js，开源在[Github](https://github.com/kaeyleo/jekyll-theme-H2O)上，稍作配置即可用于你的Jekyll博客上。使用Sketch完成H2O主题的原型设计，下面聊聊H2O的新特性。
+将该主题稍作配置即可用于你的Jekyll博客上。具体配置如下所示：
 
 
 <!--[Design with Sketch](http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-sketchdesign.png)-->
