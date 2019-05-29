@@ -17,9 +17,9 @@ tags: jekyll
 
 #### [在线预览 Live Demo →](http://fommmax.github.io/)
 
-![](screenshot/jekyll-theme-h2o-realhome.jpg)
+![](https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/jekyll-theme-h2o-realhome.jpg)
 
-![](screenshot/jekyll-theme-h2o-realm.png)
+![](https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/jekyll-theme-h2o-realm.png)
 
 如果你喜欢这个教程，请在右上角star⭐️一下，非常感谢～
 
@@ -27,7 +27,7 @@ If you like this theme or using it, please give a ⭐️ for motivation ;)
 
 如果想体验手机浏览效果，可以扫一下二维码：
 
-![](screenshot/2D.png)
+![](https://raw.githubusercontent.com/fommmax/fommmax.github.io/master/screenshot/2D.png)
 
 Using your smartphone to scan the QR Code
 
