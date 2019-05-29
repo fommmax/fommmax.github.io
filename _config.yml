@@ -2,7 +2,7 @@
 title: 'fommmax的独立博客'
 description: '热爱技术&设计的我很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: 'fommmax, fommmax的独立博客, fommmax的博客, 电子与通信, 博客, , nodejs, 设计'
-url: 'fommmax.github.io' # your host
+url: 'fommmax.github.io/' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
